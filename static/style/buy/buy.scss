@@ -1,0 +1,126 @@
+.swiper {
+		height: 1350rpx;
+	}
+
+	.row-right {
+		text-align: left;
+		padding: 30rpx 40rpx 10rpx;
+		position: relative;
+	}
+
+	.row-left {
+		text-align: right;
+		padding: 55rpx 40rpx 20rpx;
+
+		.row-title {
+			font-weight: normal;
+			font-family: cursive;
+		}
+	}
+
+	.card-conent {
+		position: relative;
+		height: 20.8rem;
+
+		.header {
+			padding: 80rpx 40rpx 0;
+		}
+	}
+
+	.card-image {
+		flex: 1;
+		height: 450rpx;
+		width: 100%;
+	}
+
+	.card-image-title {
+		font-size: small;
+		font-family: -webkit-pictograph;
+	}
+
+	.title {
+		font-size: 32rpx;
+		font-family: cursive;
+	}
+
+	.bottom-side {
+		text-align: center;
+		position: absolute;
+		bottom: 2.8rem;
+		width: 100%;
+	}
+
+	.uni-card__content--pd.data-v-19622063 {
+		padding: 0px !important;
+	}
+
+	.uni-card.data-v-19622063 {
+		border-radius: 15px !important;
+	}
+
+	.vue-ref {
+		margin-top: 100rpx;
+	}
+
+	.uni-popup__wrapper {
+		margin: 40rpx 0 100rpx;
+		text-align: center;
+		overflow: auto;
+	}
+
+	.sentence-view {
+		box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.1);
+		background-color: #FFFFFF;
+		justify-content: center;
+		display: inline-block;
+		border-radius: 10rpx;
+		text-align: center;
+		margin: 20rpx;
+
+		.sentence-image {
+			border-top-left-radius: 10rpx;
+			border-top-right-radius: 10rpx;
+			width: 320rpx;
+			height: 240rpx;
+		}
+
+		.sentence-text {
+			font-size: 24rpx;
+			padding: 10rpx 0 20rpx;
+		}
+	}
+
+	.uni-navbar--border {
+		border-bottom-style: hidden !important;
+	}
+
+	.uni-navbar__content {
+		background-color: #FFFFFF;
+		height: 120rpx !important;
+
+
+		.uni-navbar__header-btns {
+			padding: 0px 20px !important;
+		}
+
+		.uni-navbar__header-btns-left {
+			height: 150rpx !important;
+			width: 300rpx !important;
+			align-items: flex-end !important;
+		}
+
+		.uni-navbar__header-btns-right {
+			height: 150rpx !important;
+			width: 300rpx !important;
+			align-items: flex-end !important;
+		}
+	}
+
+	.screen {
+		padding: 30rpx 0px 30rpx;
+	}
+
+	.scroll-Y {
+		height: calc(100vh - 14vh);
+		width: 100%;
+	}

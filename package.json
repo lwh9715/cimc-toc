@@ -1,0 +1,16 @@
+{
+  "name": "market-car",
+  "version": "1.0.0",
+  "description": "途C物流小程序",
+  "main": "main.js",
+  "dependencies": {
+    "uview-ui": "^2.0.31"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

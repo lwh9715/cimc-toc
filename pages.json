@@ -1,0 +1,93 @@
+{
+	"pages": [
+
+
+
+		{
+			"path": "pages/commerce/index",
+			"style": {
+				"navigationBarTitleText": "集运"
+			}
+		}, {
+			"path": "pages/commerce/container",
+			"style": {
+				"navigationBarTitleText": "箱单预报"
+			}
+		}, {
+			"path": "pages/commerce/containerList",
+			"style": {
+				"navigationBarTitleText": "箱单列表"
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/commerce/trace",
+			"style": {
+				"navigationBarTitleText": "轨迹"
+			}
+		},
+		{
+			"path": "pages/track/index",
+			"style": {
+				"navigationBarTitleText": "查询轨迹"
+			}
+		},
+		{
+			"path": "pages/track/traceDetail",
+			"style": {
+				"navigationBarTitleText": "轨迹详情"
+			}
+		},
+		{
+			"path": "pages/home/index",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		},
+
+		{
+			"path": "pages/home/publicize",
+			"style": {
+				"navigationBarTitleText": "广告管理"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "Market-Car",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	},
+	"tabBar": {
+		"color": "#666666",
+		"selectedColor": "#2585fc",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/commerce/index",
+				"iconPath": "static/tabBar/sea-bg.png",
+				"selectedIconPath": "static/tabBar/sea.png",
+				"text": "集运"
+			},
+			{
+				"pagePath": "pages/track/index",
+				"iconPath": "static/tabBar/track-bg.png",
+				"selectedIconPath": "static/tabBar/track.png",
+				"text": "查询轨迹"
+			},
+			{
+				"pagePath": "pages/home/index",
+				"iconPath": "static/tabBar/home-bg.png",
+				"selectedIconPath": "static/tabBar/home.png",
+				"text": "我的"
+			}
+		]
+	}
+}

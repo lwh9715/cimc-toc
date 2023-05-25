@@ -1,0 +1,76 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 2559801 */
+  src: url('@/static/font/iconfont.woff2?t=1623049507273') format('woff2'),
+       url('@/static/font/iconfont.woff?t=1623049507273') format('woff'),
+       url('@/static/font/iconfont.ttf?t=1623049507273') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-shaixuan:before {
+  content: "\e613";
+}
+.icon-user:before {
+  content: "\e858";
+}
+.icon-xiaoxi:before {
+  content: "\e85f";
+}
+
+.icon-qingchu:before {
+  content: "\e609";
+}
+
+.icon-qianming:before {
+  content: "\e61a";
+}
+
+.icon-wenjian:before {
+  content: "\e691";
+}
+
+.icon-shangchuan:before {
+  content: "\e71a";
+}
+
+.icon-shanchu1:before {
+  content: "\e63c";
+}
+
+.icon-rili:before {
+  content: "\e615";
+}
+
+.icon-saoma:before {
+  content: "\e6bd";
+}
+
+.icon-jia:before {
+  content: "\e600";
+}
+
+.icon-gengduo:before {
+  content: "\e66a";
+}
+
+.icon-yunzhujiico:before {
+  content: "\e632";
+}
+
+.icon-dingwei_weizhi_bendi:before {
+  content: "\e692";
+}
+
+.icon-sousuo:before {
+  content: "\e9f2";
+}
+
+.icon-shaixuan:before {
+  content: "\e6c9";
+}
+
